@@ -36,3 +36,8 @@ npm start       # serves frontend/dist + API on port 3001
    - **Build command:** `npm install && cd frontend && npm install && npm run build`
    - **Start command:** `node server.js`
 4. Deploy — Render provides the public URL
+
+
+
+
+Render Deployed URL = "https://cicd-0yqd.onrender.com"
