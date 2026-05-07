@@ -1,9 +1,10 @@
 {
-  "name": "phonebook-cicd",
+  "name": "phonebook",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
   "dependencies": {
     "express": "^5.2.1"
